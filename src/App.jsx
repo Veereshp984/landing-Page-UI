@@ -18,6 +18,12 @@ const users = [
     img: "https://images.unsplash.com/photo-1618488220787-aaee29f8871f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
     intro: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum nihil unde quam. Expedita, architecto.",
     tag: "Underbanked"
+    
+  },
+  {
+    img:"https://images.unsplash.com/photo-1580998510397-f5643998fc69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8",
+    intro:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum nihil unde quam. Expedita, architecto.",
+    tag:"honest"
   }
 ];
 
