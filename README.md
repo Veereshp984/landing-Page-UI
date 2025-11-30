@@ -1,10 +1,3 @@
-Got you — the **“minus” lines (`---`)** are what GitHub sometimes flags as “AI-generated style,” and you want them **removed**.
-
-Here is the **cleaned, human-style README** with all the separators removed and the screenshot section corrected.
-Everything else remains nicely formatted.
-
----
-
 # 🎨 UI Project — React + Tailwind CSS
 
 This project is a clean and modern **UI built using React and Tailwind CSS**.
